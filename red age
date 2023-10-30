@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Сайт о Red Age</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Добро пожаловать на сайт о Red Age</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#главная">Главная</a></li>
+            <li><a href="#новости">Новости</a></li>
+            <li><a href="#галерея">Галерея</a></li>
+            <li><a href="#ссылки">Ссылки</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section id="главная">
+            <h2>Главная</h2>
+            <p>Добро пожаловать на сайт о Red Age. Здесь вы найдете информацию о игре, новости, скриншоты и многое другое.</p>
+        </section>
+        <section id="новости">
+            <h2>Новости</h2>
+            <p>Следите за последними новостями о Red Age здесь. Будьте в курсе обновлений и анонсов.</p>
+        </section>
+        <section id="галерея">
+            <h2>Галерея</h2>
+            <p>Посмотрите кадры из игры Red Age в нашей галерее. У нас есть множество захватывающих изображений.</p>
+        </section>
+        <section id="ссылки">
+            <h2>Ссылки</h2>
+            <p>Полезные ссылки, связанные с Red Age:</p>
+            <ul>
+                <li><a href="https://www.redagegame.com" target="_blank">Официальный сайт Red Age</a></li>
+                <li><a href="https://en.wikipedia.org/wiki/Red_Age" target="_blank">Страница на Википедии</a></li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 Ваше имя или название сайта</p>
+    </footer>
+</body>
+</html>
